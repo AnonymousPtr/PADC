@@ -53,7 +53,7 @@ g++ improved_parallel.cpp -fopenmp -o improved_parallel
 ### **3. Run The Simulation**
 
 ```bash
-./markov_parallel # Similarly you can run other executable files after compiling
+./parallel # Similarly you can run other executable files after compiling
 ```
 
 ### **4. (optional) Modify the number of states or iterations in the code to test scalability.**
